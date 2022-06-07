@@ -24,3 +24,12 @@ At the moment I'm studying at the Jyldyz Academy at the Frontend Developer. Spea
 &lt;source src="video/lesson2.webm" type='video/webm; codecs="vp8, vorbis"'&gt;
 Тег video не поддерживается вашим браузером.
 &lt;a href="video/lesson2.mp4"&gt;Скачайте видео&lt;/a&gt;
+
+## Education 
+- Academy of Management under the President of the Kyrgyz Republic, "Faculty of Economics and Management"
+- Courses:
+  - Jyldyz Academy "Front-end Developer" - currently taking HTML/CSS courses.
+  - [ru.code-basics.com](https://ru.code-basics.com/languages/html)
+
+## English
+- Elementary
