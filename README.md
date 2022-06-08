@@ -1,1 +1,1 @@
-https://Taligraphy.github.io/cv/cv
+https://Taligraphy.github.io/cv/CV
