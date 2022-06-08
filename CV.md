@@ -17,13 +17,14 @@ At the moment I'm studying at the Jyldyz Academy at the Frontend Developer. Spea
 - Git
 
 ## Code Example
-
-&lt;video width="400" height="300" controls="controls" poster="poster/jyldyzacademylogo.png"&gt;
-&lt;source src="video/lesson2.ogg" type='video/ogg; codecs="theora, vorbis"'&gt;
-&lt;source src="video/lesson2.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'&gt;
-&lt;source src="video/lesson2.webm" type='video/webm; codecs="vp8, vorbis"'&gt;
+```
+<video width="400" height="300" controls="controls" poster="poster/jyldyzacademylogo.png>
+<source src="video/lesson2.ogg" type='video/ogg; codecs="theora, vorbis">
+<source src="video/lesson2.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2">
+<source src="video/lesson2.webm" type='video/webm; codecs="vp8, vorbis">
 Тег video не поддерживается вашим браузером.
-&lt;a href="video/lesson2.mp4"&gt;Скачайте видео&lt;/a&gt;
+<a href="video/lesson2.mp4">Скачайте видео</a>
+```
 
 ## Education 
 - Academy of Management under the President of the Kyrgyz Republic, "Faculty of Economics and Management"
